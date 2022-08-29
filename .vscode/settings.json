@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "C:\\Users\\Romaric Farenc\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "jupyter.jupyterServerType": "local",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": false,
+	"python.linting.pylintArgs": [
+    "--indent-string=\"  \""
+	]
+}
